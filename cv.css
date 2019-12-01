@@ -1,0 +1,51 @@
+.container {
+	font-family: 'Poppins', sans-serif;
+}
+
+.intro {
+	background-color: black;
+	color: white;
+	margin: 0 auto;
+	font-weight: normal;
+	align-self: center;
+	width: 100%;
+	display: block;
+}
+
+.subheading {
+	background-color: black;
+	color: white;
+	font-size: bold;
+	float: left;
+	width: 30%;
+}
+
+.experience1 {
+	margin: 0 auto;
+	width: 80%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+	border: 2px;
+	border-color: black;
+}
+
+.experience2 {
+	margin: 0 auto;
+	width: 80%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+	border: 2px;
+	border-color: black;
+}
+
+.experience3 {
+	margin: 0 auto;
+	width: 80%;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+	border: 2px;
+	border-color: black;
+}
